@@ -13,6 +13,7 @@ const Footer = () => {
           </p>
         </div>
 
+
         {/* Col 2: Navigation */}
         <div className="footer-col">
           <h4>Navigation</h4>
