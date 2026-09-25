@@ -3,7 +3,6 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { ChevronLeft, ChevronRight, Pause, Play } from 'lucide-react';
 
 const galleryItems = [
-  '/assets/WhatsApp%20Image%202026-09-25%20at%2012.15.09.jpeg',
   '/assets/WhatsApp%20Image%202026-09-25%20at%2012.15.29.jpeg',
   '/assets/WhatsApp%20Image%202026-09-25%20at%2012.15.47.jpeg',
   '/assets/WhatsApp%20Image%202026-09-25%20at%2012.16.05.jpeg',
