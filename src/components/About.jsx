@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Heart, Sparkles, ShieldCheck, Smile } from 'lucide-react';
 

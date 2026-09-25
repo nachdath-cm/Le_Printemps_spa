@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Menu, X, PhoneCall } from 'lucide-react';
 
 const Header = () => {
@@ -49,6 +49,9 @@ const Header = () => {
           </li>
           <li className="nav-item">
             <a href="#services" onClick={closeMenu}>Services</a>
+          </li>
+          <li className="nav-item">
+            <a href="#gallery" onClick={closeMenu}>Galerie</a>
           </li>
           <li className="nav-item">
             <a href="#contact" onClick={closeMenu}>Contact</a>
